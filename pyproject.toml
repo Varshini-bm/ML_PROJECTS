@@ -1,7 +1,13 @@
 [project]
 name = "p1"
 version = "0.1.0"
-description = "Add your description here"
+description = "Apple stock analysis"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "pandas==2.3.0",
+    "matplotlib==3.8.4",
+    "tensorflow==2.16.1",
+    "pillow==10.3.0",
+    "jupyterlab==4.2.1"
+]
