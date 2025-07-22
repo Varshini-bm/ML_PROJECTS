@@ -1,6 +1,62 @@
-venv1/
+# --- Python ---
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Jupyter ---
 .ipynb_checkpoints/
+
+# --- Virtual Environments ---
+venv*/
+ENV*/
+env*/
+
+# --- Logs and Caches ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.cache/
+coverage/
+*.cover
+.hypothesis/
+*.sqlite3
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- Editor Files ---
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# --- Dependency Management ---
+poetry.lock
+Pipfile.lock
+*.lock
+.venv/
+__pypackages__/
+
+# --- Secrets and Environment Files ---
+.env
+.env.*
+.secret
+secrets.yml
+credentials.json
+
+# --- Git Ignore Backup ---
+.gitignore~
+
+# --- UV ---
 uv.lock
