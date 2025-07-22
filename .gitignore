@@ -1,0 +1,6 @@
+venv1/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+uv.lock
