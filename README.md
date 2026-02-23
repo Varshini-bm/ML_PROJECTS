@@ -1,4 +1,6 @@
 MULTIMODAL SPEECH ANALYSER
+
+
 -Analyzes how you speak, not just what you say — including confidence, tone, and those “I forgot the word” moments.
 
 -Combines speech, voice cues, and visual signals to understand presentation style.
@@ -9,6 +11,8 @@ MULTIMODAL SPEECH ANALYSER
 
 
 TOOLS
+
+
 -Python for orchestrating the overall pipeline and integrating components.
 
 -OpenCV for real-time visual and body language analysis.
