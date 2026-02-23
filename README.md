@@ -1,12 +1,12 @@
-SOFTLAUNCH:GREETINGS,I AM VARSHINI
+MULTIMODAL SPEECH ANALYSER
+-Analyzes how you speak, not just what you say — including confidence, tone, and those “I forgot the word” moments.
+-Combines speech, voice cues, and visual signals to understand presentation style.
+-Uses pretrained models (because training everything from scratch builds character… but takes forever).
+-Acts like a tiny AI presentation observer that gives feedback without judging (too much).
 
--This repo is a space where I test ideas, follow random questions, and build things I’m curious about.
-
--It will keep evolving as I learn, experiment, and build more advanced AI systems.
-
--Some models converge. Some teach patience.
-
--Every folder contains at least one “why is this happening?” moment.
-
--Expect bugs. Expect experiments. Expect iteration.
-
+TOOLS
+-Python for orchestrating the overall pipeline and integrating components.
+-OpenCV for real-time visual and body language analysis.
+-NumPy and Pandas for numerical operations and data processing.
+-Speech processing libraries for extracting audio features and handling voice input.
+-Pretrained ML models for transcription, emotion detection, and behavioral cue analysis.
